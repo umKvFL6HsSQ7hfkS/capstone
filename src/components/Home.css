@@ -1,0 +1,38 @@
+.info-block{
+    padding-left: 50px;
+    padding-right: 50px;
+    /* border-style: solid;
+    outline: blue; */
+    max-width: 50vw;
+    align-self: center;
+}
+
+#text{
+    font-size: 20px;
+}
+
+.flex-first-info{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.lottie{
+    display: flex;
+}
+
+#heart{
+    margin-right: 50px;
+}
+
+.dominoes-img{
+    max-width: 45vw;
+    padding-left: 50px;
+    
+}
+
+.flex-second-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
