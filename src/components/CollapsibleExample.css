@@ -1,28 +1,35 @@
+.nav-space{
+    background-color: rgb(250, 204, 79);
+
+}
+
 #brand{
-    padding-left: 20px;
-    font-size: 25px;
+    margin-left: 100px;
+    font-size: 30px;
+    color: white;
 }
 
 .link {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
     font-size: 20px;
-    color: black;
+
     text-decoration: none;
+    color: white;
 }
 
 .link:hover{
     text-decoration: underline;
-    text-decoration-color: #ffcd45;
+    text-decoration-color: #4567ff;
     text-decoration-thickness: 5px;
-    color: black;
+
     cursor: pointer;
+    color: white;
 }
 
 .active{
     /* cursor: pointer; */
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: #ffcd45;
+    text-decoration-color: #4567ff;
     text-decoration-thickness: 5px;
 }
